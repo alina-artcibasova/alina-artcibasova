@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+- I am Alina
+- I recently defended my doctoral degree at ETH Zurich
+- My main coding languages are Python, R, MATLAB, but I am familiar with many more
+- I am currently looking for a data science job in the UK
+- [LinkedIn profile](https://www.linkedin.com/in/artcibasova/)
+
 <!--
 **alina-artcibasova/alina-artcibasova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
