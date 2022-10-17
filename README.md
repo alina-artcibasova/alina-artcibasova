@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 - I am Alina
-- I recently defended my doctoral degree at ETH Zurich
+- I am working as a Data Scientist at NatWest
 - My main coding languages are Python, R, MATLAB, but I am familiar with many more
-- I am currently looking for a data science job in the UK
 - [LinkedIn profile](https://www.linkedin.com/in/artcibasova/)
 
 <!--
